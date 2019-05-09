@@ -126,4 +126,12 @@ Resolving Merge Conflicts
 	1. Checkout master
 	2. Merge <branchToMerge>
 		a. CONFLICT - Both modified file.txt
-	3. Fix file.txt
+	3. Fix file.txt 
+
+
+------------------------------------------------------------------------------------------
+
+Tracking Branch
+
+Tracking branches are local branches that represent remotes branches
+	- Tracking branches only get updated with network commands like clone, fetch, pull and push
