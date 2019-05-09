@@ -1,1 +1,1 @@
-featureA
+newFeatureA
