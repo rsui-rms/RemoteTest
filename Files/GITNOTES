@@ -120,3 +120,10 @@ Fast-forward merge
 	- git merge <branch>
 		- attempting a fast foward merge is the default
 	- git branch -d <branch>
+
+
+Resolving Merge Conflicts
+	1. Checkout master
+	2. Merge <branchToMerge>
+		a. CONFLICT - Both modified file.txt
+	3. Fix file.txt
